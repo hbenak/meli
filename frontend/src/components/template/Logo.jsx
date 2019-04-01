@@ -1,6 +1,5 @@
 import './Logo.css'
-//import logo from '../../assets/imgs/Logo_ML@2x.png.png'
-import logo from '../../assets/imgs/logo.png'
+import logo from '../../assets/imgs/Logo_ML@2x.png.png'
 import React from 'react'
 import { Link } from 'react-router-dom'
 
