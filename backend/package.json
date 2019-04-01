@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon",
+    "prod": "pm2 start src/server.js --name appx-backend"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.18.3",
+    "cors": "^2.8.5",
+    "express": "4.16.3",
+    "pm2": "3.0.4",
+    "unirest": "0.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  }
+}
