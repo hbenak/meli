@@ -19,6 +19,6 @@ Abrindo uma nova janela do TERMINAL (Mac) ou PROMPT (Windows) acessar a pasta `f
   - será executada aplicação na porta 3000
   - acessar pelo browser http://localhost:3000/
 
-Você poderá também executar `npm run build` para gerar os arquivos para produção.
+Você poderá também executar `npm run build` e gerar os arquivos para produção.
 
 **Dúvidas? entre em contato: hbenak@gmail.com**
